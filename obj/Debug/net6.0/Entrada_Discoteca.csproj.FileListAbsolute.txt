@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-7\Entrada_Discoteca\bin\Debug\net6.0\Entrada_Discoteca.exe
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-7\Entrada_Discoteca\bin\Debug\net6.0\Entrada_Discoteca.deps.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-7\Entrada_Discoteca\bin\Debug\net6.0\Entrada_Discoteca.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-7\Entrada_Discoteca\bin\Debug\net6.0\Entrada_Discoteca.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-7\Entrada_Discoteca\bin\Debug\net6.0\Entrada_Discoteca.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-7\Entrada_Discoteca\obj\Debug\net6.0\Entrada_Discoteca.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-7\Entrada_Discoteca\obj\Debug\net6.0\Entrada_Discoteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-7\Entrada_Discoteca\obj\Debug\net6.0\Entrada_Discoteca.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-7\Entrada_Discoteca\obj\Debug\net6.0\Entrada_Discoteca.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-7\Entrada_Discoteca\obj\Debug\net6.0\Entrada_Discoteca.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-7\Entrada_Discoteca\obj\Debug\net6.0\Entrada_Discoteca.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-7\Entrada_Discoteca\obj\Debug\net6.0\refint\Entrada_Discoteca.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-7\Entrada_Discoteca\obj\Debug\net6.0\Entrada_Discoteca.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-7\Entrada_Discoteca\obj\Debug\net6.0\Entrada_Discoteca.genruntimeconfig.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-7\Entrada_Discoteca\obj\Debug\net6.0\ref\Entrada_Discoteca.dll
